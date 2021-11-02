@@ -1,0 +1,10 @@
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\bin\Debug\Medical plants catalog.exe.config
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\bin\Debug\Medical plants catalog.exe
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\bin\Debug\Medical plants catalog.pdb
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical plants catalog.csprojAssemblyReference.cache
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical_plants_catalog.Form1.resources
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical_plants_catalog.Properties.Resources.resources
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical plants catalog.csproj.GenerateResource.cache
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical plants catalog.csproj.CoreCompileInputs.cache
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical plants catalog.exe
+E:\Current work\MedicalPlantsDictionary\Medical plants catalog\Medical plants catalog\obj\Debug\Medical plants catalog.pdb
